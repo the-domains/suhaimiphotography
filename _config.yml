@@ -1,6 +1,6 @@
 name: suhaimiphotography
 favicon: null
-layout_spectrum: 0.74783
+layout_spectrum: 0.5029
 typography_spectrum: 0.7384822582826018
 title: Suhaimi Abdullah
 cta:
@@ -22,7 +22,7 @@ color:
     - '#3160ae'
     - '#6696de'
     - '#3d342b'
-  brandStrength: 0.5
+  brandStrength: 0
   lightness: 0.695784280076623
   saturation: 0.4375
   rhythmicContrast: 0.7184638786129653
