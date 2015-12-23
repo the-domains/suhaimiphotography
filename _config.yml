@@ -1,0 +1,28 @@
+name: suhaimiphotography
+favicon: null
+layout_spectrum: 0.02076836721971631
+typography_spectrum: 0.7384822582826018
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.24378947424702346
+  lightness: 0.695784280076623
+  saturation: 0.8779984673019499
+  rhythmicContrast: 0.7184638786129653
+purpose: []
