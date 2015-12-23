@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-23T08:52:10.707Z'
-dateModified: '2015-12-23T08:51:30.046Z'
+datePublished: '2015-12-23T09:05:32.426Z'
+dateModified: '2015-12-23T09:03:16.711Z'
 title: Travel Morocco
 author: []
 sourcePath: _posts/2015-12-23-travel-morocco.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: travel-morocco/index.html
-_type: Article
+_type: WebPage
 
 ---
 #
