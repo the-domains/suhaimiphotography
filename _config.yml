@@ -1,6 +1,6 @@
 name: suhaimiphotography
 favicon: null
-layout_spectrum: 0.02076836721971631
+layout_spectrum: 0.29022
 typography_spectrum: 0.7384822582826018
 title: Suhaimi Abdullah
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#060407'
+    - '#fefefe'
+    - '#3160ae'
+    - '#6696de'
+    - '#3d342b'
   brandStrength: 0.24378947424702346
   lightness: 0.695784280076623
-  saturation: 0.8779984673019499
+  saturation: 0.25
   rhythmicContrast: 0.7184638786129653
 purpose: []
