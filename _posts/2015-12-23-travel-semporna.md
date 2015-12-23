@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-23T09:10:43.035Z'
-dateModified: '2015-12-23T09:07:41.036Z'
+datePublished: '2015-12-23T09:14:24.538Z'
+dateModified: '2015-12-23T09:13:39.848Z'
 title: Travel Semporna
 author: []
 sourcePath: _posts/2015-12-23-travel-semporna.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: travel-semporna/index.html
-_type: WebPage
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d02f2db5-ade9-4d37-bc34-b7ce87e1d730.jpg)
