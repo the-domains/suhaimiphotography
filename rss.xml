@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Suhaimi Abdullah]]></title>
         <description><![CDATA[Suhaimi Abdullah]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/suhaimiphotography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Dec 2015 08:05:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Dec 2015 08:14:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/suhaimiphotography/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SUHAIMI PHOTOGRAPHY]]></title>
+            <description><![CDATA[<article><h1>SUHAIMI PHOTOGRAPHY</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/273c4414-19ca-4859-b80d-044cf5a90282.jpg"></article>]]></description>
+            <link>https://thegrid.ai/suhaimiphotography/suhaimi-photography/index.html</link>
+            <guid isPermaLink="false">658f3d26-e8cf-4937-8a53-14e861cd2d6c</guid>
+            <pubDate>Wed, 23 Dec 2015 08:14:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Travel Morocco]]></title>
             <description><![CDATA[<h1>Travel Morocco</h1>]]></description>
-            <link>undefinedtravel-morocco/index.html</link>
+            <link>https://thegrid.ai/suhaimiphotography/travel-morocco/index.html</link>
             <guid isPermaLink="false">d4f6039e-a6b8-4225-a0ba-b248d81ef14e</guid>
             <pubDate>Wed, 23 Dec 2015 08:04:57 GMT</pubDate>
         </item>
